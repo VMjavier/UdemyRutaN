@@ -29,3 +29,9 @@ print("#Un kilogramo de trigo trae apróx 20.000 granos de trigo")
 print(f"El total de kilos de trigo es : {Total/20000}.")
 print("#Un bulto de trigo trae apróx 20 kilogramos de trigo")
 print(f"El total de bultos de trigo es : {Total/400000}.")
+
+#git init
+#git commit -m "first commit"
+#git remote add origin https://github.....
+#git add .
+#git push -f origin main
